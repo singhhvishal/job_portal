@@ -1,7 +1,8 @@
 
 => Take a look here: https://job-portal-frontend-qsyd.onrender.com/
 
-![job_portal_pic](https://github.com/user-attachments/assets/ebeaef7d-b41b-4f39-90bb-602e48c27b17)
+![job_portal_pic](https://github.com/user-attachments/assets/9dbede76-1ee0-4b44-ba25-05f03ac9353b)
+
 
 PROJECT:
 
